@@ -1,0 +1,9 @@
+help:
+  - "&6----------------------------------------------------"
+  - "&3/changepassword <current password> <new password> to change you password."
+  - "&3/unregister <current password> no longer be registered."
+  - "&3/skin to get skin help."
+  - "&3/whisper <name> <message> to pm a player."
+  - "&3/kill to kill you."
+  - "&3/stats for world age, size, and players count."
+  - "&6----------------------------------------------------"
